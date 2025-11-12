@@ -1,0 +1,1 @@
+rg-names = [ "rg-asad", "rg-diksha", "rg-shivam" ]
