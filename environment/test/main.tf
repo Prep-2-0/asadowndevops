@@ -137,4 +137,3 @@ data "azurerm_key_vault_secret" "vm_password_data" {
   key_vault_id = data.azurerm_key_vault.keyvault_data.id
 }
 
-# We are late in everything as of now
